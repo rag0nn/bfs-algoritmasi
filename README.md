@@ -14,4 +14,4 @@ Yol adlı sözlüğü arama algoritması hedefe ulaştığında geriye yayılım
 <img src="https://raw.githubusercontent.com/rag0nn/bfs-algoritmasi/main/gifs/ornek-3.gif" width="auto">
 
 # --
-Görselleştirme pyqt5 kullanılarak yapılmıştır.
+Görselleştirme pyqt5 kütüphanesi kullanılarak yapılmıştır.
