@@ -9,6 +9,6 @@ Graf bilgilerini tutan graf = {} python sözlüğü  bulunmakta, bu sözlük her
 Bu işlemler olurken aynı zamanda yol = {} adlı bir sözlük tutuyoruz,bu sözlük hangi düğüme hangi düğümün hangi indeksinden ulaşıldıgını gösteriyor;örn: yol["C"] = ["B",2]
 Yol adlı sözlüğü arama algoritması hedefe ulaştığında geriye yayılım yaparak en kısa yolu tespit edip kayıt altına almak ve işaretlemek için kullanıyoruz.
 ### İşte Bazı Örnekler
-<img src="" width="auto">
-<img src="" width="auto">
-<img src="" width="auto">
+<img src="https://raw.githubusercontent.com/rag0nn/bfs-algoritmasi/main/gifs/ornek-1.gif" width="auto">
+<img src="https://raw.githubusercontent.com/rag0nn/bfs-algoritmasi/main/gifs/ornek-2.gif" width="auto">
+<img src="https://raw.githubusercontent.com/rag0nn/bfs-algoritmasi/main/gifs/ornek-3.gif" width="auto">
