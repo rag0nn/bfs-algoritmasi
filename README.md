@@ -1,4 +1,4 @@
-### Bu repo Breadth First Search (BFS) 'un uygulanması ve  görselleştirmesi ile alakalı
+### Bu repo Breadth First Search (BFS) 'un uygulanması ve  görselleştirmesi ile alakalıdır.
 ### BFS Nedir?
 BFS , graflar üzerinde işlem yaparken genişlik öncelikli arama yani queue kullanarak sıradaki komşuları tarayarak ilerleyen arama algoritması türüdür.
 ### Nasıl Çalışır?
